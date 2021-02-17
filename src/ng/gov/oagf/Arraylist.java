@@ -15,6 +15,5 @@ public class Arraylist {
         cars.add("Mercedes");
 
         System.out.println(cars);
-       System.out.println(bus);
     }
 }

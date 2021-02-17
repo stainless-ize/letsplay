@@ -92,7 +92,7 @@ public class Student {
         Student studentObject = new Student();
         studentObject.setName("Rakiya");
         studentObject.setMatriculation_number("2001/13444BM");
-        //System.out.println(studentObject.getName());
+        System.out.println(studentObject.getName());
         System.out.println ("University: "+studentObject.getUniversity());
         System.out.println("Student name: "+studentObject.getName());
         System.out.println("student matric no: "+studentObject.getMatriculation_number());
