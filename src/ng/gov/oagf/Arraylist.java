@@ -16,5 +16,6 @@ public class Arraylist {
 
         System.out.println(cars);
        System.out.println(bus);
+       System.out.println
     }
 }
